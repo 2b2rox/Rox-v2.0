@@ -4,10 +4,7 @@
 <p align="center">
 <a href="wa.me/94716315866"><img src="https://telegra.ph/file/18114dd56b2dde35bc78b.jpg" alt="animated" width="250" height="75"/></a>
 </p>
-
-<p align="center">
-Cheems Bot Multi Device is a automated whatsapp bot developed by <a href="https://github.com/malikabhishek1/ROX-BOT" target="_blank">Rox</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
-</p>
+<h1 align="center"> Rox - Bot 2.0 </h1>
 
 <p align="center">
 Big thanks❤️ to <a href="https://github.com/nimaofficial" target="_blank">NimaOfficial</a> for huge contribution, Check out his bot</a>
