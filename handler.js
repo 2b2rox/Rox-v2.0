@@ -677,8 +677,8 @@ export async function participantsUpdate({ id, participants, action }) {
                 let groupMetadata = await this.groupMetadata(id) || (conn.chats[id] || {}).metadata
                 for (let user of participants) {
                     let nickgc = await conn.getName(id)
-                    let pp = 'https://telegra.ph/file/24fa902ead26340f3df2c.png'
-                    let ppgc = 'https://telegra.ph/file/24fa902ead26340f3df2c.png'
+                    let pp = 'https://telegra.ph/file/3e33617472fb4ecb447fd.jpg'
+                    let ppgc = 'https://telegra.ph/file/3e33617472fb4ecb447fd.jpg'
                     try {
                         pp = await this.profilePictureUrl(user, 'image')
                         ppgc = await this.profilePictureUrl(id, 'image') 
@@ -690,7 +690,7 @@ export async function participantsUpdate({ id, participants, action }) {
                             let wel = await new knights.Welcome2()
                  .setAvatar(pp)
                  .setUsername(this.getName(user)) 
-                 .setBg("https://telegra.ph/file/0b814069d86ee9a022da5.jpg")
+                 .setBg("https://telegra.ph/file/3e33617472fb4ecb447fd.jpg")
                  .setGroupname(groupMetadata.subject) 
                  .setMember(groupMetadata.participants.length)
                  .toAttachment()
@@ -701,7 +701,7 @@ export async function participantsUpdate({ id, participants, action }) {
                 .setGuildIcon(ppgc)
                 .setMemberCount(groupMetadata.participants.length)
                 .setAvatar(pp)
-                .setBackground("https://telegra.ph/file/0db212539fe8a014017e3.jpg")
+                .setBackground("https://telegra.ph/file/3e33617472fb4ecb447fd.jpg")
                 .toAttachment()
                             
                          this.sendFile(id, text2, pp, 'pp.jpg', text, null, false, { mentions: [user] })
