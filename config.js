@@ -41,9 +41,9 @@ let wibh = moment.tz('Asia/Karachi').format('HH')
 /*============== SOCIAL ==============*/
 
 // if you don't have it, type "-" or leave it alone so that there are credits :v
-global.sig = 'https://instagram.com/itx_ahmad.ali' //Link Instagrammu
-global.sgh = 'https://github.com/xIKRATOSx' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/DxIb5oWzpg24mmg9D9zw5Y'
+global.sig = 'https://github.com/2b2rox/Rox-v2.0' //Link Instagrammu
+global.sgh = 'https://telegra.ph/file/3e33617472fb4ecb447fd.jpg' //Link Githubmu
+global.sgc = '-'
 global.sdc = '-' //Fill it out using the Discord link, if there is one, just leave it
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, This is up to you to fill in :v
 
@@ -53,10 +53,10 @@ global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '68673045381' //Nomor Bot
-global.nomorown = '923470027813' //Nomor Owner
-global.namebot = 'Ikratos-MD-v1' //Nama Bot
-global.nameown = 'ᴀʜᴍᴀᴅ ᴀʟɪ🇵🇰' // Nama Owner
+global.nomorbot = '94716315866' //Nomor Bot
+global.nomorown = '94716315866' //Nomor Owner
+global.namebot = '🇱🇰⃢ʀᴏx - ᴮᴼᵗ' //Nama Bot
+global.nameown = 'Malik Abhishek 🇱🇰' // Nama Owner
 
 
 /*============== CHATGPT ==============*/
